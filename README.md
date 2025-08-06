@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali</h1>
 <h3 align="center">PhD Scholar | Computer Vision Researcher & Developer</h3>
 <p align="center">
-  <em>Specializing in Vision Transformers, Explainable AI, and Real-World Visual Applications</em>
+  <em>Specializing in Vision Transformers, Explainable AI, and Real-World Computer Vision Applications</em>
 </p>
 
 ---
